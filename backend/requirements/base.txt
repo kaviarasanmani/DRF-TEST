@@ -19,7 +19,7 @@ drf-spectacular==0.25.1
 drf-yasg==1.21.4
 exceptiongroup==1.0.4
 Flask==2.2.5
-Flask-Cors==4.0.1
+Flask-Cors==5.0.0
 flask-restplus==0.13.0
 idna==3.7
 inflection==0.5.1
